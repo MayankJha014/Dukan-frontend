@@ -13,7 +13,6 @@ function App() {
             <Sidebar>
               <Routes>
                 <Route path="/*" element={<Dashboard />} />
-                <Route path="/7*" element={<Dashboard />} />
               </Routes>
             </Sidebar>
           </ThemeContext>
