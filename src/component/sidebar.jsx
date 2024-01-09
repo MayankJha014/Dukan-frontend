@@ -25,7 +25,7 @@ const Sidebar = ({ children }) => {
           />
         </svg>
       ),
-      link: "/7",
+
     },
     {
       title: "Orders",
